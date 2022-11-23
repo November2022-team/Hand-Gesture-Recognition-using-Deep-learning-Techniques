@@ -1,0 +1,13 @@
+Hand Gesture recognition using Deep Learning Techniques
+
+The dataset is from the Kaggle Platform.
+
+Source link: https://www.kaggle.com/datasets/muhammadkhalid/sign-language-for-alphabets?resource=download
+
+The goal of hand gesture recognition is to classify the given hand gesture data using deep learning techniques like (CNN, KNN, SVM), represented by some features into some predefined finite number of gesture classes (27 classes in our case). 
+The scope of this project is to create a method to recognise hand gesture, based on the pattern recognition technique. The orientation histogram will be used as a feature vector for gesture classification and interpolation.
+
+High priority for the system is to be simple without making use of any special hardware. All the computation should occur on a workstation or PC. Special hardware would be used only to digitize the image (scanner or digital camera).
+
+In summary, the first objective of this project is to create a complete system to detect, recognize and interpret the hand gestures through computer vision. 
+Second objective of the project is therefore to provide a new low-cost, high speed and colour image acquisition system.
